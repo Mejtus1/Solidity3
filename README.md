@@ -1,1 +1,1 @@
-# Solidity3-BuffaloUniversity
+Token Contract - initial blacklist
